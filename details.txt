@@ -1,0 +1,3 @@
+main wrapper: 992px;
+
+sub wrapper : 768px;
